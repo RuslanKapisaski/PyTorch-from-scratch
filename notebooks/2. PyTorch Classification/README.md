@@ -17,5 +17,5 @@ This notebook provides a comprehensive introduction to neural network classifica
 6.  **Putting It All Together with a Multi-Class Classification Problem**: Extends the concepts to multi-class classification, demonstrating data creation with `make_blobs`, building a multi-class model, and using `nn.CrossEntropyLoss` and `softmax` for predictions.
 
 7.  **Classification Metrics**: Introduces various evaluation metrics beyond accuracy, such as precision, recall, F1-score, confusion matrix, and classification report, using the `torchmetrics` library.
-
+---
 ***[Open in Colab](https://colab.research.google.com/drive/1mvCQvxQIu3rHjg7G8LEthqc-gKUmBUIy?usp=sharing)***

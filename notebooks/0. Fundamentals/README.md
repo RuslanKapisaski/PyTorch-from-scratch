@@ -33,5 +33,5 @@ This notebook provides comprehensive introduction to PyTorch tensors, covering f
 *   **Reproducibility**: Introduces `torch.manual_seed()` for ensuring reproducible random tensor generation.
 *   **GPU Usage**: Explains how to set up device-agnostic code, check for GPU availability, and move tensors between CPU and GPU for faster computations.
 
-
+---
 ***[Open in Colab](https://colab.research.google.com/drive/1FX9tKfnSz3DlId28krvUp4VMfR8Clhc8?usp=sharing)***

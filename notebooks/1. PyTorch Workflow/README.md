@@ -66,5 +66,5 @@ This notebook demonstrates a basic end-to-end PyTorch workflow for a linear regr
 -   **Verification**: Compares predictions of the original and loaded models to ensure correctness.
 
 This notebook serves as a foundational example for understanding the core concepts of building and training simple neural networks in PyTorch.
-
+---
 ***[Open in Colab](https://colab.research.google.com/drive/1XohPrgSqy-KVEfhIaYRsi0ZNas7QD2IX?usp=sharing)***
